@@ -10,31 +10,31 @@ Table of Contents:
 
 - Prologue
 - Joining BizTech Solutions
- - Chapter 1: Welcome to BizTech Solutions
- - Chapter 2: Common Errors and Troubleshooting
- - Chapter 3: Data Cleaning
- - Chapter 4: Data Manipulation
- - Chapter 5: Advanced Statistical Techniques
- - Chapter 6: Data Visualization
+  - Chapter 1: Welcome to BizTech Solutions
+  - Chapter 2: Common Errors and Troubleshooting
+  - Chapter 3: Data Cleaning
+  - Chapter 4: Data Manipulation
+  - Chapter 5: Advanced Statistical Techniques
+  - Chapter 6: Data Visualization
 - Finance Department
- - Chapter 7: Diving into Financial Data
- - Chapter 8: Time Series Analysis
+  - Chapter 7: Diving into Financial Data
+  - Chapter 8: Time Series Analysis
 - Marketing Department
- - Chapter 9: Understanding Customer Behavior
- - Chapter 10: A/B Testing and Campaign Analysis
+  - Chapter 9: Understanding Customer Behavior
+  - Chapter 10: A/B Testing and Campaign Analysis
 - Sales Department
- - Chapter 11: Sales Forecasting and Pipeline Analysis
- - Chapter 12: Performance Metrics and Customer Value
+  - Chapter 11: Sales Forecasting and Pipeline Analysis
+  - Chapter 12: Performance Metrics and Customer Value
 - Human Resources
- - Chapter 13: Employee Performance Analysis
- - Chapter 14: Employee Turnover Analysis
+  - Chapter 13: Employee Performance Analysis
+  - Chapter 14: Employee Turnover Analysis
 - Operations Department
- - Chapter 15: Optimizing Supply Chain
- - Chapter 16: Process Improvement
+  - Chapter 15: Optimizing Supply Chain
+  - Chapter 16: Process Improvement
 - Advanced Topics and Final Project
- - Chapter 17: Machine Learning and Big Data
- - Chapter 18: Final Project and Presentation
- - Chapter 19: Conclusion and Next Steps
+  - Chapter 17: Machine Learning and Big Data
+  - Chapter 18: Final Project and Presentation
+  - Chapter 19: Conclusion and Next Steps
 
 Repository Contents:
 
@@ -59,7 +59,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/data-to-decisions.git
+git clone https://github.com/jtmonroe252/data-to-decisions.git
 Open the project in RStudio.
 
 Navigate to the chapter of interest and run the corresponding script in the /scripts/ directory.
