@@ -1,0 +1,1001 @@
+Customer_ID,Purchase_Category,Purchase_Channel,Purchase_PaymentType, Amount
+15,Clothing,Mail Order,Cash,80.2
+7,Groceries,Mail Order,Cash,95.31
+13,Furniture,Mail Order,Cash,7.81
+61,Groceries,Online,Debit Card,44.34
+53,Clothing,Online,Cash,19.44
+39,Health & Beauty,Mail Order,Credit Card,53.38
+6,Clothing,Online,PayPal,80.76
+6,Groceries,Mail Order,PayPal,97.71
+64,Groceries,Online,Credit Card,7.19
+21,Clothing,Online,Debit Card,11.62
+2,Groceries,Mail Order,Debit Card,12.21
+22,Furniture,Online,Cash,22.82
+49,Groceries,Online,Cash,19.52
+15,Electronics,Mail Order,Debit Card,56.05
+7,Groceries,Online,Debit Card,1.81
+7,Furniture,In-Store,Cash,36.63
+13,Health & Beauty,Online,Credit Card,49.01
+53,Groceries,Online,Credit Card,41.7
+17,Clothing,In-Store,Cash,78.8
+1,Electronics,In-Store,PayPal,40.27
+31,Health & Beauty,Mail Order,Credit Card,49.39
+1,Furniture,Online,Debit Card,53.89
+13,Groceries,In-Store,PayPal,46.5
+43,Clothing,In-Store,Cash,19.23
+48,Furniture,Mail Order,PayPal,96.83
+51,Furniture,In-Store,Debit Card,69.44
+47,Health & Beauty,Mail Order,Debit Card,71.58
+30,Health & Beauty,In-Store,Cash,61.86
+13,Groceries,Online,Debit Card,97.83
+7,Clothing,Mail Order,Debit Card,34.29
+3,Health & Beauty,Online,Debit Card,74.73
+19,Electronics,Online,Credit Card,98.14
+28,Health & Beauty,Mail Order,PayPal,51
+29,Groceries,In-Store,PayPal,29.85
+51,Electronics,Online,Cash,50.94
+12,Electronics,Online,Credit Card,75.13
+45,Furniture,Mail Order,Debit Card,98.96
+6,Furniture,Mail Order,Cash,27.93
+21,Health & Beauty,Online,Credit Card,68.5
+41,Electronics,Online,Debit Card,49.08
+27,Groceries,Mail Order,Debit Card,22.74
+42,Health & Beauty,Mail Order,Credit Card,14.97
+22,Health & Beauty,In-Store,Credit Card,61.04
+45,Furniture,Mail Order,Debit Card,69.23
+25,Groceries,In-Store,PayPal,83.96
+61,Clothing,Mail Order,Cash,4.36
+44,Clothing,In-Store,PayPal,46.96
+62,Health & Beauty,Online,Debit Card,62.46
+55,Electronics,Mail Order,Debit Card,46.75
+24,Groceries,In-Store,Debit Card,40.32
+63,Clothing,Online,PayPal,32.82
+61,Furniture,Mail Order,Cash,2.43
+36,Clothing,In-Store,Cash,80.33
+2,Health & Beauty,Online,Credit Card,30.46
+16,Electronics,In-Store,Debit Card,40.7
+67,Health & Beauty,Mail Order,Credit Card,62.4
+7,Electronics,In-Store,Debit Card,49.3
+52,Groceries,Online,PayPal,77.08
+12,Furniture,In-Store,Cash,36.83
+47,Health & Beauty,Online,PayPal,36.46
+15,Clothing,In-Store,PayPal,67.62
+38,Groceries,Mail Order,Cash,34.27
+50,Furniture,In-Store,PayPal,36.68
+16,Clothing,Online,PayPal,13.54
+21,Groceries,Mail Order,PayPal,30.15
+46,Furniture,Online,PayPal,16.62
+21,Furniture,Online,PayPal,77.22
+36,Furniture,In-Store,Debit Card,54.19
+27,Groceries,Online,Credit Card,83.78
+5,Clothing,Mail Order,PayPal,73.11
+40,Clothing,In-Store,PayPal,78.08
+30,Clothing,Mail Order,Credit Card,53.7
+45,Clothing,Online,Debit Card,29.39
+52,Furniture,In-Store,PayPal,71.22
+68,Clothing,In-Store,PayPal,9.4
+60,Furniture,Online,PayPal,45.3
+50,Furniture,In-Store,Debit Card,73.42
+49,Groceries,Mail Order,Debit Card,73.69
+54,Health & Beauty,Online,Debit Card,70.88
+4,Clothing,Mail Order,Credit Card,20.83
+37,Furniture,Online,Debit Card,22.81
+14,Health & Beauty,Mail Order,Cash,33.79
+38,Furniture,Mail Order,PayPal,11.85
+56,Furniture,Online,Cash,86.03
+34,Groceries,Online,Debit Card,43.4
+47,Groceries,In-Store,Cash,53.4
+65,Furniture,In-Store,Debit Card,41.98
+48,Groceries,Mail Order,Cash,19.35
+46,Health & Beauty,In-Store,PayPal,74.63
+9,Furniture,Online,Cash,42.58
+4,Clothing,Online,Debit Card,3.08
+14,Furniture,Mail Order,Cash,36.25
+58,Electronics,Online,Debit Card,47.19
+22,Furniture,Mail Order,PayPal,77.08
+62,Health & Beauty,Mail Order,PayPal,11.21
+10,Health & Beauty,In-Store,Credit Card,22.06
+27,Clothing,In-Store,Cash,40.51
+26,Furniture,Mail Order,PayPal,18.27
+47,Electronics,In-Store,Credit Card,18.28
+36,Clothing,Online,Cash,94.62
+25,Groceries,In-Store,Debit Card,41.16
+53,Groceries,Mail Order,Credit Card,3.99
+25,Electronics,Mail Order,Credit Card,34.66
+11,Groceries,In-Store,Cash,56.85
+18,Groceries,In-Store,PayPal,98.09
+31,Clothing,In-Store,PayPal,70.57
+19,Health & Beauty,In-Store,Credit Card,49.29
+24,Clothing,Online,Credit Card,49.81
+44,Clothing,Online,Cash,59.64
+52,Health & Beauty,In-Store,Cash,27.86
+46,Groceries,Online,Credit Card,78.43
+14,Furniture,Mail Order,Credit Card,50.56
+62,Furniture,Mail Order,Cash,62.75
+64,Clothing,Online,Credit Card,6.08
+10,Health & Beauty,Online,Debit Card,14.71
+50,Groceries,In-Store,Cash,10.07
+22,Furniture,Online,PayPal,37.39
+29,Clothing,Online,PayPal,16.37
+37,Clothing,Online,PayPal,66.64
+46,Groceries,In-Store,Debit Card,21.27
+10,Groceries,Online,PayPal,59.48
+54,Groceries,In-Store,Debit Card,66.99
+44,Electronics,In-Store,Credit Card,43.24
+4,Electronics,In-Store,Cash,87.09
+13,Electronics,In-Store,Debit Card,81.18
+59,Clothing,Mail Order,Credit Card,85.95
+67,Health & Beauty,In-Store,Debit Card,30.2
+48,Clothing,Online,Cash,62.81
+31,Groceries,In-Store,Debit Card,62.47
+8,Clothing,In-Store,Credit Card,86.1
+16,Health & Beauty,In-Store,PayPal,47.1
+12,Furniture,Online,PayPal,63.97
+62,Clothing,Online,Cash,3.11
+1,Electronics,Mail Order,Cash,42.92
+25,Groceries,Mail Order,PayPal,94.17
+14,Groceries,In-Store,PayPal,12.4
+21,Groceries,In-Store,PayPal,9.02
+44,Groceries,Online,Credit Card,52.33
+26,Health & Beauty,Online,PayPal,75.76
+35,Health & Beauty,In-Store,Credit Card,49.13
+45,Groceries,In-Store,Debit Card,4.29
+66,Groceries,Mail Order,Debit Card,78.51
+55,Clothing,In-Store,Credit Card,57.31
+18,Clothing,In-Store,Cash,80.35
+58,Furniture,In-Store,Cash,22.3
+2,Clothing,Online,Debit Card,65.9
+46,Health & Beauty,Online,Credit Card,1.21
+27,Furniture,Mail Order,Credit Card,78.27
+2,Electronics,Online,Credit Card,63.32
+34,Groceries,Online,PayPal,33.12
+67,Electronics,Online,PayPal,68.69
+58,Electronics,In-Store,Debit Card,69.31
+12,Groceries,Online,Debit Card,59.22
+40,Electronics,Mail Order,Debit Card,54
+14,Clothing,In-Store,Credit Card,73.01
+36,Groceries,Mail Order,PayPal,50.15
+14,Furniture,Mail Order,Debit Card,57.57
+53,Health & Beauty,In-Store,PayPal,48.25
+30,Health & Beauty,In-Store,Debit Card,6.16
+24,Clothing,Online,PayPal,92.12
+10,Electronics,Mail Order,Cash,58.48
+13,Groceries,Mail Order,PayPal,30.15
+2,Groceries,Online,PayPal,92.76
+45,Clothing,Online,PayPal,97.18
+18,Groceries,Online,Debit Card,44
+5,Electronics,In-Store,Cash,57.07
+52,Furniture,In-Store,PayPal,41.48
+39,Health & Beauty,Mail Order,PayPal,18.38
+14,Electronics,In-Store,Debit Card,53.56
+42,Health & Beauty,Mail Order,Debit Card,60.65
+21,Furniture,Online,Credit Card,48.49
+52,Clothing,Mail Order,PayPal,45.48
+48,Electronics,Mail Order,Debit Card,34.16
+14,Health & Beauty,Online,Credit Card,91.7
+50,Health & Beauty,Mail Order,Debit Card,66.38
+25,Furniture,Online,PayPal,48.79
+42,Clothing,Mail Order,Debit Card,21.99
+64,Health & Beauty,Mail Order,PayPal,91.97
+30,Health & Beauty,Online,Debit Card,1.02
+25,Furniture,Mail Order,PayPal,78.08
+48,Clothing,Online,Cash,53.29
+9,Furniture,Online,PayPal,52.79
+31,Health & Beauty,Online,PayPal,44.93
+3,Groceries,In-Store,Credit Card,33.27
+30,Furniture,Mail Order,Credit Card,98.2
+47,Electronics,Online,Credit Card,32.49
+21,Furniture,Online,Credit Card,22.26
+14,Groceries,Online,Credit Card,52.08
+8,Groceries,In-Store,Credit Card,96.52
+2,Health & Beauty,Mail Order,Cash,30.43
+52,Electronics,In-Store,PayPal,85.09
+33,Furniture,Online,Credit Card,48.96
+14,Health & Beauty,Mail Order,PayPal,43.51
+62,Health & Beauty,In-Store,Debit Card,57.51
+45,Health & Beauty,In-Store,Credit Card,7.84
+19,Clothing,Mail Order,Credit Card,29.34
+11,Furniture,Mail Order,Debit Card,6.3
+68,Electronics,Mail Order,Cash,32.7
+68,Groceries,Mail Order,PayPal,14.29
+16,Health & Beauty,In-Store,Debit Card,76.23
+62,Health & Beauty,In-Store,Cash,29.84
+51,Clothing,Online,Cash,19.16
+10,Health & Beauty,Online,Debit Card,19.62
+40,Electronics,Mail Order,Debit Card,47.58
+11,Furniture,In-Store,Cash,22.79
+2,Groceries,Online,Debit Card,30.04
+11,Clothing,Online,Credit Card,38.72
+51,Health & Beauty,Online,PayPal,62.59
+61,Clothing,In-Store,Debit Card,68.5
+45,Clothing,In-Store,Debit Card,69.25
+7,Groceries,Mail Order,PayPal,42.36
+53,Groceries,In-Store,Debit Card,62.75
+32,Clothing,In-Store,PayPal,64.83
+53,Groceries,Mail Order,Debit Card,33.09
+19,Health & Beauty,In-Store,PayPal,2.25
+43,Electronics,In-Store,PayPal,41.27
+18,Electronics,Online,Cash,63.9
+39,Clothing,Online,Credit Card,23.95
+25,Groceries,In-Store,Debit Card,21.06
+41,Groceries,In-Store,Debit Card,71.2
+38,Groceries,In-Store,Debit Card,29.12
+32,Electronics,Online,Debit Card,71.47
+3,Health & Beauty,Mail Order,Debit Card,53.33
+2,Electronics,Online,Cash,61.73
+55,Electronics,Mail Order,Cash,90.95
+16,Clothing,Online,PayPal,48.97
+8,Furniture,Mail Order,Debit Card,64.9
+27,Furniture,In-Store,PayPal,61.63
+8,Electronics,Mail Order,PayPal,69.32
+23,Groceries,Online,Credit Card,52.17
+26,Health & Beauty,Mail Order,Cash,26.56
+62,Electronics,Online,Credit Card,16.63
+58,Furniture,In-Store,Debit Card,45.28
+8,Electronics,Mail Order,Cash,47.61
+12,Health & Beauty,In-Store,PayPal,4.55
+66,Furniture,Online,Cash,27.12
+34,Clothing,In-Store,PayPal,8.97
+45,Groceries,In-Store,Credit Card,85.15
+20,Electronics,In-Store,Debit Card,36.5
+15,Furniture,Mail Order,Credit Card,63.61
+25,Clothing,Online,Credit Card,92.14
+2,Electronics,Mail Order,Cash,97.85
+20,Clothing,Online,Cash,87.33
+32,Groceries,In-Store,Credit Card,77.18
+28,Furniture,In-Store,Cash,71.33
+29,Furniture,In-Store,Debit Card,57.22
+60,Electronics,Online,Credit Card,17.2
+23,Clothing,Online,Cash,35.95
+5,Electronics,Mail Order,Credit Card,23.72
+13,Electronics,In-Store,Debit Card,27.59
+11,Groceries,Online,Credit Card,18.58
+18,Clothing,In-Store,PayPal,50.1
+27,Electronics,Mail Order,Debit Card,31.03
+11,Clothing,In-Store,Debit Card,17.77
+46,Electronics,Mail Order,Debit Card,5.96
+66,Health & Beauty,Mail Order,Credit Card,9.43
+25,Electronics,Mail Order,Cash,98.62
+48,Furniture,In-Store,Credit Card,57.41
+12,Furniture,In-Store,PayPal,80
+2,Clothing,In-Store,PayPal,31.07
+59,Furniture,Mail Order,PayPal,20.11
+29,Clothing,Online,PayPal,49.6
+68,Furniture,Online,PayPal,19.16
+17,Health & Beauty,Online,Debit Card,9.69
+9,Health & Beauty,Mail Order,PayPal,33.34
+56,Furniture,In-Store,Debit Card,4.79
+28,Electronics,In-Store,Cash,16.94
+18,Electronics,Online,Debit Card,29.05
+35,Health & Beauty,Online,PayPal,22.68
+43,Furniture,Mail Order,PayPal,98.02
+55,Electronics,Mail Order,Debit Card,81.84
+22,Electronics,In-Store,Debit Card,87.93
+62,Clothing,Mail Order,Cash,96.53
+52,Furniture,In-Store,Cash,95.78
+52,Clothing,Online,Debit Card,15.15
+13,Health & Beauty,Mail Order,Credit Card,20.59
+65,Clothing,Online,Debit Card,77.34
+68,Electronics,In-Store,Credit Card,38.18
+48,Clothing,Mail Order,Cash,22.77
+59,Electronics,Mail Order,Cash,58.6
+63,Furniture,Online,Credit Card,20.68
+63,Clothing,Mail Order,Credit Card,95.85
+13,Groceries,Mail Order,PayPal,62.91
+3,Furniture,In-Store,Cash,40.35
+48,Electronics,Online,Debit Card,21.28
+62,Groceries,In-Store,Cash,44.99
+62,Clothing,Online,Cash,69.09
+33,Electronics,Online,PayPal,70.47
+63,Furniture,Mail Order,PayPal,54.63
+43,Groceries,Mail Order,Cash,68.2
+24,Furniture,In-Store,PayPal,41.05
+22,Electronics,Online,Credit Card,35.23
+8,Electronics,In-Store,Debit Card,34.97
+68,Furniture,Mail Order,Credit Card,55.93
+47,Groceries,Mail Order,Credit Card,12.1
+41,Clothing,In-Store,Credit Card,16.62
+66,Furniture,Mail Order,PayPal,31.1
+5,Furniture,Mail Order,Credit Card,91.31
+19,Clothing,Online,Cash,61.11
+40,Groceries,Online,PayPal,51.1
+43,Health & Beauty,Mail Order,Debit Card,4.19
+10,Clothing,Online,Debit Card,88.77
+54,Clothing,Mail Order,Debit Card,6.29
+50,Groceries,In-Store,PayPal,95.82
+61,Electronics,In-Store,Debit Card,35.59
+11,Health & Beauty,Online,Cash,11.51
+6,Clothing,Mail Order,Credit Card,29.29
+15,Furniture,In-Store,Cash,18.75
+6,Health & Beauty,Mail Order,Cash,68.32
+56,Furniture,Mail Order,Debit Card,83.38
+62,Clothing,In-Store,PayPal,88.27
+18,Furniture,Online,PayPal,35.73
+1,Groceries,In-Store,Debit Card,84.13
+68,Furniture,In-Store,PayPal,10.07
+5,Electronics,Online,Cash,76.63
+18,Furniture,Online,Credit Card,81.72
+24,Clothing,Online,Cash,12.54
+29,Electronics,Mail Order,Debit Card,22.71
+4,Health & Beauty,Mail Order,Cash,65.53
+25,Electronics,Online,Cash,7.4
+55,Groceries,Mail Order,Credit Card,68.82
+3,Furniture,Online,PayPal,17.81
+41,Groceries,Mail Order,Cash,71.62
+19,Clothing,Mail Order,Debit Card,85.67
+8,Electronics,Mail Order,Cash,83.08
+42,Furniture,Online,Cash,60.09
+58,Electronics,Online,Cash,84.97
+49,Electronics,In-Store,Cash,83.39
+39,Groceries,Online,Cash,78.27
+29,Groceries,In-Store,Debit Card,71.88
+65,Clothing,Online,PayPal,14.44
+23,Clothing,Mail Order,Credit Card,17.34
+34,Clothing,In-Store,Credit Card,46.26
+58,Groceries,Online,Debit Card,44.01
+15,Clothing,In-Store,Debit Card,84.93
+24,Health & Beauty,Online,Cash,85.71
+46,Electronics,In-Store,Debit Card,1.81
+15,Groceries,Mail Order,PayPal,49.77
+68,Groceries,Mail Order,Credit Card,32.86
+45,Health & Beauty,In-Store,Credit Card,58.41
+59,Furniture,Mail Order,Debit Card,2.98
+20,Groceries,Mail Order,Credit Card,7.82
+16,Furniture,In-Store,Cash,74.99
+33,Groceries,Mail Order,Cash,69.48
+13,Health & Beauty,Online,Debit Card,23.94
+22,Groceries,Mail Order,PayPal,63.8
+13,Electronics,Mail Order,PayPal,9.64
+47,Groceries,Online,Cash,67.84
+27,Electronics,Online,Debit Card,87.21
+16,Electronics,In-Store,Debit Card,30.43
+14,Clothing,Online,Cash,92.53
+42,Health & Beauty,Online,PayPal,95.23
+66,Electronics,Online,Debit Card,71.08
+47,Clothing,In-Store,PayPal,38.72
+67,Groceries,Mail Order,PayPal,70.08
+14,Health & Beauty,Mail Order,PayPal,12.09
+33,Groceries,Online,PayPal,6.19
+12,Health & Beauty,Mail Order,PayPal,98.17
+10,Health & Beauty,In-Store,PayPal,33.84
+34,Groceries,In-Store,Debit Card,8.81
+29,Electronics,In-Store,Cash,35.67
+5,Clothing,Online,Credit Card,8.13
+21,Clothing,Online,PayPal,54.56
+22,Health & Beauty,Mail Order,Credit Card,40.68
+60,Furniture,In-Store,Debit Card,84.12
+1,Clothing,In-Store,PayPal,68.33
+28,Clothing,Online,Debit Card,58.85
+24,Groceries,Mail Order,Debit Card,2.21
+68,Furniture,Mail Order,PayPal,57.95
+53,Electronics,Mail Order,Cash,22.96
+66,Groceries,In-Store,Credit Card,37.1
+46,Health & Beauty,Mail Order,Credit Card,50.62
+20,Health & Beauty,Mail Order,Debit Card,7.84
+33,Groceries,Mail Order,Credit Card,76.75
+21,Clothing,Mail Order,Debit Card,8.01
+55,Electronics,Online,PayPal,78.86
+35,Electronics,Online,Cash,55.34
+31,Clothing,In-Store,Cash,26.96
+49,Electronics,Online,Cash,35.97
+33,Health & Beauty,Mail Order,Debit Card,28.95
+24,Furniture,In-Store,Debit Card,11.12
+7,Groceries,In-Store,Credit Card,26.56
+26,Electronics,Online,PayPal,38.25
+15,Health & Beauty,Online,Cash,45.73
+51,Electronics,In-Store,Cash,22.88
+31,Health & Beauty,In-Store,Debit Card,51.49
+31,Electronics,Mail Order,Debit Card,2.93
+52,Groceries,Mail Order,Cash,31.9
+38,Groceries,Mail Order,PayPal,37.36
+20,Health & Beauty,Online,Debit Card,44.96
+43,Health & Beauty,In-Store,Credit Card,33.79
+55,Health & Beauty,Mail Order,Credit Card,9.73
+35,Electronics,Mail Order,PayPal,84.49
+50,Groceries,Mail Order,Debit Card,8.88
+19,Clothing,In-Store,Credit Card,75.72
+9,Furniture,Mail Order,Credit Card,93.74
+59,Groceries,In-Store,Debit Card,12.02
+14,Clothing,Mail Order,Cash,76.87
+27,Health & Beauty,In-Store,PayPal,7.92
+43,Electronics,Mail Order,Credit Card,93.36
+65,Groceries,In-Store,Debit Card,93.55
+50,Furniture,In-Store,Debit Card,69.9
+66,Health & Beauty,Mail Order,Debit Card,70.99
+29,Clothing,Online,Credit Card,55.47
+42,Health & Beauty,Online,Cash,79.66
+41,Health & Beauty,In-Store,PayPal,43.71
+7,Groceries,Online,Credit Card,6.55
+7,Health & Beauty,In-Store,PayPal,22.8
+68,Electronics,Mail Order,Debit Card,17.58
+49,Clothing,Online,PayPal,50.36
+62,Furniture,Mail Order,Debit Card,82.23
+13,Electronics,In-Store,Cash,34.83
+66,Furniture,Mail Order,Credit Card,17.64
+63,Clothing,In-Store,PayPal,54
+25,Health & Beauty,Mail Order,Debit Card,21.13
+58,Clothing,Mail Order,Debit Card,27.43
+3,Electronics,In-Store,Cash,86.71
+57,Clothing,Mail Order,Cash,50.03
+4,Health & Beauty,Mail Order,Debit Card,64.46
+64,Groceries,Mail Order,PayPal,89.58
+19,Electronics,In-Store,Credit Card,97.07
+68,Health & Beauty,Mail Order,Cash,86.18
+17,Groceries,In-Store,Credit Card,25.36
+37,Furniture,Online,Debit Card,59.23
+9,Clothing,In-Store,PayPal,87.15
+26,Clothing,In-Store,Debit Card,55.34
+55,Clothing,Online,Debit Card,88.82
+6,Furniture,In-Store,Debit Card,56.85
+57,Clothing,Online,Credit Card,17.1
+64,Furniture,In-Store,Credit Card,92.03
+48,Clothing,Mail Order,Debit Card,4.94
+25,Clothing,In-Store,Debit Card,37.28
+55,Groceries,Online,Debit Card,81.26
+59,Groceries,In-Store,Debit Card,11.21
+11,Clothing,Online,PayPal,1.11
+47,Furniture,In-Store,Cash,28.63
+55,Furniture,In-Store,Cash,75.53
+22,Electronics,Online,Credit Card,12.38
+58,Groceries,Mail Order,Credit Card,23.6
+18,Furniture,In-Store,Credit Card,75.19
+47,Clothing,Online,Debit Card,36.54
+37,Electronics,Online,Credit Card,42.02
+60,Electronics,Mail Order,Cash,12.75
+45,Electronics,In-Store,PayPal,74.24
+29,Health & Beauty,In-Store,Cash,40.64
+40,Groceries,Mail Order,Debit Card,47.45
+45,Groceries,In-Store,Debit Card,45.38
+67,Electronics,Mail Order,Credit Card,24.78
+48,Clothing,In-Store,Credit Card,89.93
+63,Electronics,Mail Order,PayPal,76.48
+56,Clothing,In-Store,Debit Card,66.42
+62,Clothing,Mail Order,PayPal,68.97
+50,Clothing,Mail Order,Cash,79.61
+4,Health & Beauty,Mail Order,Credit Card,28.01
+57,Furniture,Online,Debit Card,7.13
+61,Electronics,In-Store,Credit Card,56.31
+37,Groceries,Online,PayPal,78.37
+41,Groceries,In-Store,Credit Card,61.44
+9,Health & Beauty,In-Store,Debit Card,87.83
+23,Groceries,Online,Cash,66.37
+47,Clothing,In-Store,Debit Card,92.74
+31,Furniture,Online,Credit Card,48.91
+21,Clothing,In-Store,PayPal,42.55
+1,Clothing,Online,PayPal,42.61
+19,Clothing,In-Store,PayPal,86.84
+50,Health & Beauty,Online,Credit Card,39.82
+59,Health & Beauty,Mail Order,Debit Card,38.22
+46,Electronics,Mail Order,Cash,15.43
+57,Clothing,In-Store,Credit Card,18.39
+39,Clothing,Mail Order,Credit Card,24.52
+27,Health & Beauty,In-Store,PayPal,32.54
+36,Groceries,Mail Order,Cash,42.61
+65,Groceries,In-Store,Credit Card,87.81
+33,Health & Beauty,Online,Debit Card,41.85
+8,Electronics,Online,Debit Card,18.72
+51,Clothing,Mail Order,Cash,10.5
+2,Groceries,Mail Order,Debit Card,19.26
+11,Furniture,In-Store,PayPal,14.85
+17,Clothing,Mail Order,PayPal,1.57
+7,Electronics,Online,PayPal,52.35
+40,Electronics,Mail Order,Cash,6.39
+21,Furniture,Online,Cash,5.59
+63,Clothing,Mail Order,PayPal,41.3
+48,Health & Beauty,Mail Order,PayPal,66.12
+47,Health & Beauty,In-Store,PayPal,80.67
+20,Health & Beauty,In-Store,Debit Card,96.79
+50,Furniture,Mail Order,PayPal,99.49
+65,Clothing,Online,Debit Card,65.24
+11,Electronics,In-Store,Credit Card,86.44
+17,Health & Beauty,Online,Cash,57.78
+24,Clothing,Mail Order,Credit Card,75.43
+3,Clothing,Online,PayPal,49.79
+57,Groceries,Online,PayPal,23.09
+29,Health & Beauty,Mail Order,Cash,65.98
+47,Clothing,In-Store,Debit Card,47.07
+60,Furniture,Mail Order,PayPal,69.67
+48,Electronics,Mail Order,PayPal,63.85
+36,Clothing,In-Store,Credit Card,26.16
+53,Groceries,Mail Order,PayPal,94.23
+8,Electronics,Mail Order,Debit Card,81.6
+65,Groceries,In-Store,Debit Card,50.58
+66,Health & Beauty,Mail Order,Credit Card,68.11
+50,Groceries,Online,Credit Card,73.8
+53,Electronics,Online,Cash,54.43
+12,Clothing,Online,Cash,5.05
+23,Health & Beauty,Online,PayPal,23.73
+5,Furniture,In-Store,Debit Card,77.39
+64,Furniture,Online,Debit Card,83.92
+59,Electronics,In-Store,Credit Card,13.98
+14,Health & Beauty,Online,Cash,30.96
+40,Electronics,In-Store,PayPal,56.84
+4,Groceries,Mail Order,Debit Card,13.31
+58,Furniture,Online,Credit Card,97.19
+18,Groceries,Mail Order,Credit Card,68.01
+41,Health & Beauty,In-Store,Credit Card,71.23
+61,Electronics,In-Store,Cash,18.36
+45,Groceries,Mail Order,Credit Card,60.36
+43,Electronics,Mail Order,Debit Card,55.49
+49,Groceries,Mail Order,Cash,62.66
+59,Groceries,Mail Order,Debit Card,66.98
+30,Health & Beauty,Online,Cash,22
+48,Electronics,In-Store,Credit Card,29.67
+12,Clothing,Mail Order,Debit Card,61.8
+68,Groceries,Mail Order,PayPal,54.98
+13,Clothing,Online,Debit Card,20.37
+42,Electronics,In-Store,Credit Card,97.14
+55,Electronics,Mail Order,Debit Card,51.12
+14,Groceries,Mail Order,Credit Card,40.85
+60,Electronics,Online,PayPal,66.36
+18,Clothing,In-Store,PayPal,28.01
+52,Electronics,Mail Order,Credit Card,39.23
+40,Health & Beauty,In-Store,Credit Card,33.64
+45,Health & Beauty,Mail Order,PayPal,77.06
+56,Electronics,Online,Cash,13.19
+15,Clothing,Mail Order,Cash,74.87
+18,Electronics,In-Store,PayPal,45.58
+38,Furniture,Online,PayPal,63.8
+55,Electronics,Mail Order,PayPal,73.62
+51,Clothing,In-Store,Debit Card,82.73
+62,Electronics,Online,PayPal,45.17
+15,Groceries,In-Store,Credit Card,30.61
+54,Groceries,Online,PayPal,23.51
+10,Furniture,Online,Cash,1.08
+38,Clothing,Online,Credit Card,99.7
+3,Groceries,Online,Cash,15.93
+16,Furniture,In-Store,PayPal,12.31
+45,Health & Beauty,In-Store,Cash,33.27
+9,Electronics,In-Store,Cash,37.34
+51,Groceries,Mail Order,Cash,13.78
+33,Health & Beauty,Mail Order,Debit Card,85.26
+55,Electronics,In-Store,PayPal,21.14
+18,Furniture,In-Store,Credit Card,59.12
+20,Groceries,Online,Debit Card,72.21
+63,Health & Beauty,In-Store,Cash,90.96
+43,Furniture,Mail Order,PayPal,60.69
+67,Clothing,In-Store,Credit Card,68.05
+25,Electronics,Mail Order,Debit Card,82.28
+4,Groceries,Online,Cash,38.95
+68,Health & Beauty,Online,PayPal,32.18
+32,Furniture,Mail Order,Credit Card,76.86
+38,Health & Beauty,Online,Credit Card,93.42
+33,Electronics,In-Store,PayPal,27.06
+2,Health & Beauty,In-Store,Debit Card,25.14
+45,Clothing,Online,Debit Card,21.22
+25,Furniture,In-Store,Debit Card,12.13
+12,Electronics,Mail Order,Cash,28.74
+64,Groceries,Online,Credit Card,81.12
+29,Groceries,In-Store,Cash,75.95
+66,Health & Beauty,Mail Order,Cash,96.45
+57,Groceries,In-Store,Credit Card,37.95
+65,Electronics,In-Store,Cash,4.28
+11,Health & Beauty,In-Store,Debit Card,80.82
+9,Electronics,In-Store,PayPal,64.08
+46,Health & Beauty,In-Store,Debit Card,58.79
+37,Electronics,Online,Debit Card,16.62
+26,Clothing,Mail Order,PayPal,77.04
+58,Health & Beauty,Mail Order,Debit Card,55.41
+62,Electronics,Online,PayPal,15.46
+6,Health & Beauty,In-Store,PayPal,80
+35,Health & Beauty,Online,Cash,98.44
+33,Electronics,Online,Cash,99.66
+9,Furniture,Online,Credit Card,33.34
+52,Furniture,Online,Cash,26.48
+54,Health & Beauty,Online,Credit Card,44.59
+6,Furniture,Mail Order,PayPal,56.66
+37,Groceries,Mail Order,Credit Card,52.39
+32,Electronics,Online,Credit Card,50
+17,Groceries,In-Store,Credit Card,18.18
+56,Furniture,In-Store,Credit Card,70.63
+66,Electronics,In-Store,Cash,49.78
+29,Groceries,Mail Order,Credit Card,70.69
+41,Health & Beauty,Online,Credit Card,75.69
+39,Electronics,In-Store,Debit Card,2.23
+26,Furniture,Online,Credit Card,49.87
+32,Groceries,Online,Cash,18.61
+20,Electronics,Mail Order,Credit Card,71.93
+39,Furniture,In-Store,Cash,96.55
+66,Groceries,Online,Debit Card,41.85
+16,Health & Beauty,In-Store,PayPal,87.56
+40,Furniture,Online,Debit Card,40.08
+53,Clothing,Online,Credit Card,31.52
+64,Furniture,Mail Order,Credit Card,43.11
+38,Electronics,In-Store,Cash,7.59
+63,Electronics,Online,Credit Card,19.37
+63,Furniture,In-Store,Credit Card,16.81
+6,Groceries,Online,PayPal,68.84
+28,Groceries,Mail Order,Debit Card,79.2
+18,Clothing,Online,PayPal,12.06
+18,Groceries,In-Store,PayPal,12.88
+59,Health & Beauty,In-Store,PayPal,25.41
+21,Clothing,In-Store,Credit Card,98.07
+14,Furniture,In-Store,Debit Card,41.01
+49,Groceries,Mail Order,PayPal,38.74
+67,Furniture,Mail Order,Debit Card,19.78
+29,Furniture,In-Store,Cash,37.22
+26,Electronics,Online,Credit Card,59.46
+33,Electronics,In-Store,Credit Card,44.35
+32,Health & Beauty,In-Store,Cash,43.54
+37,Groceries,In-Store,Cash,16.22
+12,Groceries,Mail Order,Debit Card,57.41
+25,Clothing,Mail Order,Debit Card,14.11
+26,Groceries,Mail Order,Credit Card,88.6
+41,Groceries,Mail Order,Credit Card,28.3
+12,Clothing,In-Store,PayPal,89.19
+68,Groceries,Online,PayPal,22.47
+46,Electronics,Mail Order,Cash,3.22
+51,Groceries,Online,PayPal,1.1
+50,Health & Beauty,Online,Cash,27.01
+15,Furniture,Mail Order,Cash,19.47
+27,Health & Beauty,In-Store,Credit Card,79.46
+64,Clothing,Mail Order,PayPal,17.34
+54,Health & Beauty,Online,PayPal,7.42
+27,Health & Beauty,In-Store,Credit Card,18.29
+4,Furniture,In-Store,Cash,64.24
+63,Health & Beauty,Online,Debit Card,82.14
+56,Furniture,In-Store,PayPal,53
+11,Groceries,Online,Credit Card,86.78
+42,Furniture,Online,Credit Card,25.43
+16,Health & Beauty,Online,Debit Card,78.22
+39,Electronics,In-Store,Cash,11.45
+16,Clothing,Online,Cash,36.98
+58,Groceries,Mail Order,Cash,39.57
+26,Health & Beauty,In-Store,Debit Card,48.75
+65,Health & Beauty,Online,Cash,37.83
+44,Furniture,Mail Order,Cash,48.04
+27,Groceries,In-Store,Credit Card,89.67
+42,Electronics,Online,Credit Card,7.78
+32,Furniture,Online,Debit Card,21.79
+33,Clothing,Online,Credit Card,57.44
+61,Health & Beauty,In-Store,Debit Card,96.88
+29,Furniture,Online,PayPal,64.43
+56,Groceries,Online,Debit Card,57.9
+32,Groceries,In-Store,Debit Card,61.14
+4,Electronics,In-Store,Cash,64.13
+57,Clothing,Mail Order,Credit Card,7.47
+53,Furniture,Mail Order,Debit Card,99.84
+60,Clothing,Online,Debit Card,65.08
+55,Groceries,In-Store,PayPal,25.93
+40,Clothing,Mail Order,PayPal,36.51
+38,Groceries,Mail Order,Cash,57.31
+28,Groceries,In-Store,PayPal,47.06
+53,Groceries,Online,PayPal,55.35
+22,Electronics,In-Store,Debit Card,88.22
+24,Furniture,Online,Credit Card,20.77
+10,Electronics,In-Store,Cash,1.51
+46,Electronics,In-Store,Credit Card,31.17
+68,Clothing,In-Store,PayPal,59.78
+8,Electronics,Mail Order,Credit Card,34.8
+17,Clothing,Online,Debit Card,11.04
+65,Furniture,Mail Order,Credit Card,42.83
+25,Health & Beauty,Online,PayPal,23.33
+16,Clothing,In-Store,Debit Card,75.44
+52,Groceries,Mail Order,PayPal,38.09
+1,Electronics,In-Store,PayPal,91.93
+16,Groceries,Online,Cash,69.04
+37,Furniture,Online,Cash,19.56
+32,Clothing,In-Store,Debit Card,52.17
+68,Health & Beauty,Online,Credit Card,60.19
+41,Furniture,Online,PayPal,21.96
+24,Furniture,Online,PayPal,65.65
+28,Groceries,Mail Order,Credit Card,76.99
+18,Electronics,Mail Order,Cash,98.29
+26,Clothing,In-Store,Cash,87.17
+25,Health & Beauty,Online,Credit Card,38.25
+43,Electronics,Mail Order,Credit Card,19.79
+53,Groceries,In-Store,Cash,10.95
+44,Health & Beauty,Online,Debit Card,47.8
+28,Furniture,Online,Cash,5.24
+28,Electronics,In-Store,PayPal,63.94
+7,Health & Beauty,Mail Order,Cash,55.67
+64,Health & Beauty,In-Store,Debit Card,89.88
+52,Groceries,Mail Order,PayPal,74.71
+53,Health & Beauty,In-Store,Cash,78.66
+12,Clothing,Online,Debit Card,26.98
+41,Clothing,Mail Order,PayPal,10.77
+42,Furniture,Online,PayPal,11.19
+28,Groceries,Mail Order,Debit Card,66
+8,Electronics,Online,Cash,79.72
+20,Electronics,In-Store,Debit Card,74.11
+50,Electronics,Online,Cash,24.5
+15,Groceries,Online,Cash,99.73
+63,Health & Beauty,Mail Order,PayPal,20.64
+43,Furniture,Mail Order,Credit Card,99.47
+26,Health & Beauty,In-Store,Cash,8.58
+29,Electronics,Online,Debit Card,10.49
+18,Furniture,Online,Credit Card,68.51
+16,Clothing,Mail Order,Cash,49.18
+55,Health & Beauty,In-Store,Debit Card,57.01
+50,Health & Beauty,Mail Order,Credit Card,25.15
+26,Furniture,Online,Credit Card,93.38
+64,Groceries,In-Store,Debit Card,72.67
+42,Groceries,Online,PayPal,88.25
+62,Clothing,Mail Order,Cash,75.7
+56,Clothing,In-Store,Cash,56.58
+47,Furniture,Online,Cash,95.35
+31,Groceries,Mail Order,Credit Card,47.18
+43,Furniture,Mail Order,Credit Card,76.15
+6,Clothing,Mail Order,PayPal,49.67
+11,Furniture,In-Store,Cash,36.56
+42,Groceries,In-Store,Credit Card,26.43
+30,Health & Beauty,Mail Order,Credit Card,86.05
+59,Furniture,Online,Credit Card,65.98
+30,Health & Beauty,In-Store,Credit Card,66.46
+9,Health & Beauty,In-Store,PayPal,45.7
+1,Groceries,Mail Order,Cash,35.69
+3,Electronics,Mail Order,PayPal,37.2
+22,Electronics,In-Store,PayPal,2.01
+60,Groceries,Online,PayPal,48.56
+8,Electronics,Online,PayPal,51.62
+3,Furniture,In-Store,Cash,64.7
+12,Health & Beauty,Online,PayPal,19.83
+17,Furniture,Online,Cash,86.66
+49,Clothing,Online,Debit Card,32.56
+16,Clothing,In-Store,Credit Card,93.36
+34,Groceries,Mail Order,Cash,33.38
+46,Electronics,In-Store,PayPal,22.85
+6,Health & Beauty,In-Store,Debit Card,19.46
+40,Health & Beauty,Mail Order,Credit Card,48.87
+5,Groceries,Online,Credit Card,28.17
+10,Groceries,Online,Debit Card,3.86
+62,Groceries,Online,Cash,14.94
+13,Health & Beauty,Online,Credit Card,70.9
+59,Groceries,Online,PayPal,8.04
+40,Electronics,In-Store,Debit Card,74.05
+7,Electronics,Online,Debit Card,33.78
+20,Furniture,Online,Cash,15.97
+2,Electronics,In-Store,Credit Card,44.62
+56,Health & Beauty,Mail Order,Debit Card,24.15
+10,Clothing,In-Store,Cash,44.33
+48,Electronics,Online,Debit Card,36.63
+53,Groceries,In-Store,Credit Card,56.62
+55,Groceries,In-Store,Debit Card,56.11
+27,Clothing,In-Store,Cash,76.38
+34,Health & Beauty,In-Store,PayPal,17.62
+68,Furniture,Mail Order,Credit Card,14.75
+15,Health & Beauty,Mail Order,Debit Card,52.31
+11,Groceries,In-Store,Credit Card,3.67
+29,Groceries,In-Store,PayPal,9.12
+16,Electronics,In-Store,Debit Card,65.64
+59,Clothing,Online,Credit Card,12.24
+10,Clothing,In-Store,Cash,67.47
+64,Groceries,Online,Cash,35.42
+30,Furniture,Online,PayPal,77.68
+45,Groceries,In-Store,Debit Card,40.05
+66,Health & Beauty,Mail Order,Cash,55.64
+17,Clothing,Online,Cash,21.8
+42,Furniture,In-Store,Cash,74.7
+21,Clothing,In-Store,Cash,41.1
+16,Clothing,Mail Order,Debit Card,84.17
+61,Health & Beauty,Online,Debit Card,83.45
+21,Furniture,Mail Order,Credit Card,76.59
+53,Groceries,Online,Cash,96.51
+44,Groceries,In-Store,Cash,55.93
+17,Health & Beauty,Mail Order,Debit Card,62
+47,Health & Beauty,Mail Order,Cash,7.96
+40,Groceries,Online,Credit Card,46.13
+56,Furniture,In-Store,Debit Card,39.8
+25,Health & Beauty,Mail Order,Credit Card,94.76
+34,Groceries,Mail Order,PayPal,71.19
+3,Health & Beauty,Mail Order,PayPal,95.88
+7,Health & Beauty,Online,Credit Card,70.84
+49,Furniture,Mail Order,Credit Card,81.08
+12,Clothing,In-Store,Credit Card,14.31
+20,Furniture,In-Store,Debit Card,43.47
+64,Groceries,Online,Debit Card,19.75
+32,Electronics,In-Store,Credit Card,80.14
+11,Clothing,Mail Order,Debit Card,70.56
+4,Electronics,In-Store,Credit Card,26.39
+66,Clothing,In-Store,Credit Card,9.44
+4,Clothing,Online,Debit Card,93.84
+30,Electronics,Online,Debit Card,10.51
+60,Clothing,Mail Order,Credit Card,91.18
+52,Furniture,Mail Order,Cash,26.28
+29,Furniture,Online,Debit Card,98.49
+57,Furniture,In-Store,PayPal,60.26
+8,Furniture,Online,Debit Card,43.56
+26,Groceries,Mail Order,Cash,65.07
+63,Health & Beauty,Mail Order,Cash,18.51
+15,Electronics,In-Store,Credit Card,99.18
+62,Furniture,In-Store,Debit Card,71.81
+6,Electronics,Online,Cash,85.6
+54,Groceries,Online,Debit Card,55.67
+35,Furniture,Mail Order,Cash,86.65
+38,Clothing,Mail Order,Debit Card,30.29
+42,Health & Beauty,Online,Credit Card,52.16
+34,Groceries,Mail Order,Debit Card,87.42
+67,Health & Beauty,In-Store,Credit Card,91.98
+34,Electronics,In-Store,Credit Card,78.11
+18,Health & Beauty,In-Store,PayPal,54.45
+47,Groceries,Online,Debit Card,77.09
+22,Furniture,Mail Order,Debit Card,41.99
+14,Groceries,In-Store,Credit Card,97.08
+41,Clothing,Online,PayPal,3.03
+55,Furniture,Mail Order,Credit Card,98.78
+34,Clothing,Online,Cash,43.62
+6,Electronics,Mail Order,Credit Card,41.29
+39,Groceries,Online,Credit Card,27.44
+60,Clothing,Mail Order,PayPal,56.35
+54,Clothing,Online,Cash,70.13
+65,Health & Beauty,In-Store,Cash,17.69
+63,Groceries,Online,Debit Card,82.02
+39,Clothing,In-Store,Credit Card,54
+65,Furniture,Online,Debit Card,95.84
+67,Electronics,Online,Credit Card,98.41
+51,Health & Beauty,Online,PayPal,99.1
+3,Groceries,In-Store,Cash,44.13
+21,Health & Beauty,Mail Order,Debit Card,89.58
+52,Furniture,In-Store,Debit Card,98.19
+31,Health & Beauty,In-Store,Debit Card,91.64
+24,Electronics,Mail Order,Credit Card,93.67
+3,Health & Beauty,Online,Debit Card,59.2
+27,Furniture,Mail Order,Cash,47.04
+43,Furniture,Online,Cash,12.35
+39,Health & Beauty,In-Store,Cash,88.22
+28,Health & Beauty,Mail Order,PayPal,39.57
+46,Clothing,Online,Debit Card,68.97
+37,Health & Beauty,Online,Cash,27.49
+56,Furniture,In-Store,Credit Card,97.94
+28,Furniture,Mail Order,Debit Card,43.84
+3,Electronics,In-Store,Cash,43.58
+8,Electronics,Mail Order,Cash,45.25
+41,Clothing,In-Store,Debit Card,42.03
+39,Electronics,Mail Order,PayPal,62.09
+29,Electronics,Mail Order,PayPal,48.34
+3,Clothing,Online,Cash,95.73
+42,Clothing,Online,Credit Card,16.75
+15,Furniture,In-Store,Credit Card,4.9
+7,Electronics,Online,Debit Card,82.05
+66,Health & Beauty,Mail Order,Cash,97.95
+3,Electronics,Online,Debit Card,19.9
+67,Groceries,In-Store,Cash,72.27
+9,Electronics,Online,PayPal,97.63
+67,Electronics,Mail Order,Cash,37.84
+61,Clothing,Mail Order,PayPal,67.37
+39,Health & Beauty,Mail Order,Credit Card,20.2
+60,Health & Beauty,In-Store,PayPal,58.47
+28,Clothing,Mail Order,Credit Card,69.44
+49,Clothing,In-Store,PayPal,64.57
+25,Clothing,Mail Order,Cash,74.19
+24,Health & Beauty,Online,PayPal,93.58
+58,Clothing,Mail Order,Cash,52.28
+18,Groceries,Online,Debit Card,90.23
+47,Health & Beauty,Online,Cash,5.06
+28,Clothing,Mail Order,Debit Card,71.94
+64,Furniture,Mail Order,PayPal,4.27
+14,Furniture,Online,Debit Card,52.58
+37,Furniture,Online,PayPal,62.74
+62,Clothing,In-Store,Debit Card,14.21
+23,Health & Beauty,In-Store,Credit Card,23.66
+41,Furniture,Online,Debit Card,68.16
+14,Furniture,In-Store,Debit Card,90.3
+25,Health & Beauty,In-Store,Credit Card,20.13
+59,Furniture,Mail Order,Cash,50.25
+29,Furniture,Online,Credit Card,46.11
+56,Clothing,Online,Credit Card,66.57
+53,Furniture,In-Store,PayPal,32.39
+68,Furniture,In-Store,Credit Card,14.97
+17,Groceries,Mail Order,Credit Card,54.55
+27,Groceries,Mail Order,Credit Card,37.1
+25,Groceries,Mail Order,Cash,35.48
+17,Groceries,In-Store,PayPal,63.65
+51,Groceries,In-Store,Debit Card,98.9
+5,Clothing,In-Store,PayPal,70.68
+40,Furniture,Mail Order,Cash,24.23
+58,Clothing,In-Store,Credit Card,62.42
+53,Electronics,Online,Debit Card,81.68
+47,Clothing,In-Store,Cash,97.59
+44,Clothing,Online,Debit Card,58.4
+60,Furniture,Online,Debit Card,86.6
+52,Electronics,Mail Order,Credit Card,64.8
+15,Groceries,In-Store,Credit Card,4.79
+38,Clothing,Mail Order,Credit Card,9.9
+1,Groceries,In-Store,Debit Card,45.58
+10,Groceries,In-Store,Credit Card,40.6
+1,Electronics,In-Store,PayPal,92.76
+60,Clothing,Online,Credit Card,35.16
+19,Electronics,Mail Order,Debit Card,89.21
+60,Electronics,Online,Cash,41.9
+30,Clothing,Mail Order,Debit Card,99.25
+21,Furniture,Mail Order,PayPal,53.98
+40,Clothing,In-Store,Cash,74.86
+12,Clothing,Online,PayPal,87.21
+14,Electronics,Online,PayPal,80.7
+22,Clothing,In-Store,PayPal,51.74
+32,Health & Beauty,Mail Order,Debit Card,13.72
+65,Furniture,Online,Debit Card,83.56
+21,Health & Beauty,In-Store,Cash,49.08
+48,Groceries,Online,PayPal,90.76
+34,Electronics,Mail Order,PayPal,80.46
+54,Electronics,Mail Order,Cash,48.1
+50,Health & Beauty,Mail Order,Debit Card,63.19
+62,Groceries,In-Store,Cash,99.52
+15,Groceries,Mail Order,Debit Card,79.4
+13,Health & Beauty,In-Store,Debit Card,55.55
+67,Groceries,Online,PayPal,80.85
+36,Health & Beauty,Online,Cash,44
+49,Electronics,In-Store,Cash,97.36
+40,Clothing,In-Store,PayPal,70.95
+64,Furniture,Online,PayPal,36.16
+28,Electronics,Online,Debit Card,56.85
+60,Electronics,In-Store,Cash,95.88
+6,Electronics,Mail Order,PayPal,60.36
+58,Electronics,Mail Order,Credit Card,78.41
+1,Groceries,Mail Order,PayPal,23.13
+4,Health & Beauty,In-Store,Credit Card,96.34
+21,Groceries,In-Store,Credit Card,37.5
+60,Health & Beauty,In-Store,PayPal,37.17
+35,Groceries,In-Store,Debit Card,18
+18,Electronics,In-Store,Debit Card,96.81
+13,Groceries,In-Store,PayPal,52.47
+46,Health & Beauty,Online,Credit Card,10.59
+48,Clothing,Online,Cash,52.64
+7,Groceries,Online,Cash,35.52
+35,Groceries,In-Store,PayPal,9.32
+55,Clothing,In-Store,PayPal,47.79
+44,Furniture,In-Store,Debit Card,85.58
+2,Groceries,Mail Order,Credit Card,56.46
+19,Health & Beauty,In-Store,Credit Card,93.71
+62,Furniture,Online,PayPal,23.32
+65,Clothing,Mail Order,Cash,5.61
+22,Clothing,In-Store,PayPal,95.01
+14,Groceries,In-Store,Debit Card,50.65
+29,Clothing,In-Store,Debit Card,33.11
+67,Health & Beauty,Online,PayPal,25.44
+39,Health & Beauty,Online,Cash,34.7
+46,Electronics,Mail Order,Cash,7.02
+30,Clothing,Mail Order,PayPal,25.39
+8,Electronics,Mail Order,Cash,66.47
+7,Furniture,Online,Credit Card,34.72
+40,Electronics,In-Store,Cash,91.34
+9,Electronics,Online,PayPal,86.92
+25,Health & Beauty,In-Store,PayPal,18.41
+36,Clothing,In-Store,Cash,73.66
+42,Groceries,Mail Order,Cash,47.32
+28,Furniture,Online,Debit Card,71.92
+19,Groceries,Mail Order,PayPal,43.4
+21,Furniture,In-Store,Cash,35.2
+18,Health & Beauty,Mail Order,Cash,33.95
+16,Clothing,In-Store,Credit Card,72.13
+10,Furniture,Mail Order,Cash,94.77
+17,Electronics,In-Store,PayPal,55.5
+40,Furniture,In-Store,Credit Card,57.92
+40,Groceries,Online,PayPal,16.86
+65,Clothing,Online,Cash,50.68
+66,Electronics,In-Store,Debit Card,54.41
+16,Groceries,Mail Order,Credit Card,10.14
+3,Health & Beauty,Online,Debit Card,71.73
+62,Furniture,In-Store,Debit Card,46.79
+43,Electronics,Online,Debit Card,33.7
+49,Groceries,Mail Order,Credit Card,27.42
+55,Health & Beauty,In-Store,Cash,19.51
+1,Clothing,Online,Cash,29.51
+22,Furniture,In-Store,Cash,15.41
+57,Electronics,In-Store,Debit Card,45.22
+23,Furniture,Mail Order,Debit Card,31.54
+28,Furniture,Mail Order,PayPal,44.94
+51,Clothing,Online,Debit Card,28.71
+12,Electronics,Mail Order,Credit Card,84.91
+42,Health & Beauty,Online,Debit Card,78.67
+34,Electronics,In-Store,Debit Card,26.3
+18,Health & Beauty,Online,PayPal,40.48
+17,Groceries,In-Store,Cash,92.92
+41,Furniture,In-Store,Debit Card,73.95
+66,Health & Beauty,Online,Credit Card,47.71
+21,Furniture,In-Store,Credit Card,11.88
+57,Health & Beauty,In-Store,Credit Card,65.29
+25,Furniture,In-Store,Credit Card,1.91
+58,Furniture,In-Store,Debit Card,13.27
+66,Clothing,Online,PayPal,71.41
+44,Electronics,In-Store,Credit Card,81.82
+10,Groceries,In-Store,Cash,53.3
+3,Groceries,Online,Cash,54.89
+26,Groceries,In-Store,Debit Card,31.87
+16,Groceries,Mail Order,PayPal,76.86
+21,Groceries,In-Store,Debit Card,44.16
+47,Health & Beauty,In-Store,Credit Card,91.6
+19,Clothing,Mail Order,Debit Card,85.59
+68,Clothing,Mail Order,Debit Card,45.85
+60,Health & Beauty,Online,Credit Card,38.37
+40,Furniture,In-Store,Credit Card,93.35

@@ -1,0 +1,65 @@
+Employee_ID,First_Name,Last_Name,Department,Performance_Score,Age,Years_at_Company,Training_Hours
+1,Henry,Sims,Operations,71,49,15,40
+2,Logan,Wolfe,Customer Service,68,44,14,36
+3,Theodore,Barnes,Operations,72,48,14,41
+4,Asher,Diaz,Customer Service,69,43,13,37
+5,Oliver,Hill,Operations,73,47,13,42
+6,Gabriel,Watson,Customer Service,70,42,12,38
+7,Elijah,Rivera,Operations,74,46,12,43
+8,Julian,Fisher,Sales,86,42,12,52
+9,Wyatt,Reed,Customer Service,71,41,11,39
+10,Miles,Hayes,IT,81,45,11,57
+11,William,Lee,Operations,77,43,11,45
+12,Isaac,Turner,Operations,75,45,11,44
+13,Samuel,Russell,Sales,85,41,11,51
+14,Lucas,Peterson,Customer Service,72,40,10,40
+15,Grace,Dunn,Finance,88,37,10,52
+16,Levi,Butler,IT,80,44,10,56
+17,David,Jones,Operations,79,45,10,48
+18,Logan,Green,Operations,76,44,10,46
+19,Jackson,James,Sales,84,40,10,50
+20,Jack,Scott,Customer Service,73,39,9,41
+21,Clara,Saunders,Finance,87,36,9,51
+22,Alexander,Wilson,IT,76,42,9,53
+23,Lincoln,Bell,IT,79,43,9,55
+24,Lillian,Fox,Marketing,92,35,9,63
+25,Luke,Murphy,Sales,83,39,9,49
+26,Ethan,Harris,Customer Service,74,38,8,43
+27,Hannah,Wood,Finance,86,35,8,50
+28,Michael,Williams,IT,78,40,8,55
+29,Mason,Cook,IT,78,42,8,54
+30,Eleanor,Ward,Marketing,91,34,8,62
+31,Leo,Perez,Sales,82,38,8,48
+32,James,Davis,Customer Service,75,37,7,42
+33,Audrey,Bailey,Finance,85,34,7,49
+34,Sophie,Reid,HR,95,25,7,60
+35,Owen,Roberts,IT,77,41,7,52
+36,Aurora,Gray,Marketing,90,33,7,61
+37,Noah,Clark,Sales,81,37,7,46
+38,Sarah,Brown,Finance,85,33,6,50
+39,Eva,Phillips,Finance,84,33,6,47
+40,Madeline,Griffin,HR,94,26,6,59
+41,Benjamin,Hall,IT,79,39,6,50
+42,Hazel,Morris,Marketing,89,32,6,60
+43,Daniel,Rodriguez,Sales,80,36,6,47
+44,Sophia,Lopez,Finance,84,34,5,49
+45,Harper,Allen,Finance,83,35,5,48
+46,Elizabeth,Murphy,HR,93,27,5,58
+47,Stella,Campbell,Marketing,88,31,5,59
+48,John,Smith,Sales,82,35,5,40
+49,Jessica,Miller,HR,88,31,4,52
+50,Lily,King,HR,89,30,4,54
+51,Penelope,Cooper,HR,92,28,4,57
+52,Olivia,Martinez,Marketing,87,30,4,58
+53,Mia,Young,Marketing,86,32,4,57
+54,Isabella,Gonzalez,HR,90,32,3,55
+55,Nora,Torres,HR,91,29,3,56
+56,Emily,Johnson,Marketing,91,28,3,60
+57,Emma,Garcia,Research and Development,93,29,2,65
+58,Chloe,Foster,Research and Development,96,25,2,72
+59,Ruby,Bennett,Research and Development,97,24,2,75
+60,Ava,Martin,Research and Development,94,27,1,68
+61,Grace,Baker,Research and Development,95,26,1,70
+62,Layla,Ross,Research and Development,98,23,1,78
+63,Violet,Hart,Research and Development,99,22,1,80
+64,Zoey,York,Research and Development,100,21,1,82

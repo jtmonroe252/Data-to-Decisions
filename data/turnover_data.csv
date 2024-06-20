@@ -1,0 +1,113 @@
+Tenure,Turnover,Department,Age,Years_at_Company,Job_Satisfaction
+14,0,Sales,35,5,7
+8,1,Marketing,28,3,4
+21,0,IT,40,8,6
+5,0,Finance,33,6,8
+12,1,Operations,45,10,5
+9,0,HR,31,4,9
+16,1,Customer Service,37,7,3
+3,0,Research and Development,29,2,8
+7,0,Sales,36,6,6
+10,1,Marketing,30,4,4
+18,0,IT,42,9,7
+4,0,Finance,34,5,9
+11,1,Operations,43,11,5
+6,0,HR,32,3,8
+15,1,Customer Service,38,8,4
+2,0,Research and Development,27,1,9
+13,0,Sales,37,7,6
+20,1,Marketing,32,4,3
+23,0,IT,39,6,7
+17,0,Finance,35,5,8
+19,1,Operations,44,10,5
+1,0,HR,30,4,9
+25,0,Customer Service,39,9,6
+28,1,Research and Development,26,1,4
+22,0,Sales,38,8,7
+27,0,Marketing,31,5,8
+30,1,IT,43,7,5
+24,0,Finance,33,6,9
+29,1,Operations,45,11,4
+26,0,HR,28,3,8
+31,0,Customer Service,40,10,7
+34,1,Research and Development,25,2,3
+32,0,Sales,39,9,8
+37,0,Marketing,34,6,9
+40,1,IT,44,8,6
+35,0,Finance,35,7,5
+38,0,Operations,46,12,4
+33,1,HR,29,5,8
+36,0,Customer Service,41,10,7
+39,0,Research and Development,24,1,9
+42,1,Sales,40,11,6
+45,0,Marketing,35,8,3
+48,0,IT,45,10,7
+43,1,Finance,36,9,8
+46,0,Operations,47,13,5
+41,0,HR,27,6,9
+44,1,Customer Service,42,12,4
+47,0,Research and Development,23,1,8
+50,0,Sales,41,11,7
+53,1,Marketing,36,9,6
+56,0,IT,46,11,5
+51,0,Finance,37,10,8
+54,1,Operations,48,14,3
+49,0,HR,25,7,9
+52,0,Customer Service,43,13,6
+55,1,Research and Development,22,1,5
+58,0,Sales,42,12,8
+61,0,Marketing,37,9,7
+64,1,IT,47,11,4
+59,0,Finance,38,10,9
+62,0,Operations,49,15,6
+57,1,HR,23,5,3
+60,0,Customer Service,44,14,8
+63,0,Research and Development,21,1,7
+66,1,Sales,43,12,6
+69,0,Marketing,38,9,5
+72,0,IT,48,11,4
+67,1,Finance,39,8,7
+70,0,Operations,50,16,6
+65,0,HR,24,6,9
+68,1,Customer Service,45,15,3
+71,0,Research and Development,20,1,8
+74,0,Sales,44,13,7
+77,1,Marketing,39,10,4
+80,0,IT,49,12,5
+75,0,Finance,40,11,8
+78,1,Operations,51,17,3
+73,0,HR,22,7,6
+76,0,Customer Service,46,16,9
+79,1,Research and Development,19,1,2
+82,0,Sales,45,14,7
+85,0,Marketing,40,11,6
+88,1,IT,50,13,5
+83,0,Finance,41,12,8
+86,0,Operations,52,18,4
+81,1,HR,21,6,7
+84,0,Customer Service,47,17,9
+87,0,Research and Development,18,1,8
+90,1,Sales,46,15,5
+93,0,Marketing,41,12,6
+96,0,IT,51,14,7
+91,1,Finance,42,13,4
+94,0,Operations,53,19,8
+89,0,HR,20,7,9
+92,1,Customer Service,48,18,3
+95,0,Research and Development,17,1,8
+98,0,Sales,47,16,7
+100,1,Marketing,42,13,6
+82,0,IT,48,11,5
+85,0,Finance,40,10,8
+88,1,Operations,51,17,3
+83,0,HR,22,7,6
+86,0,Customer Service,46,16,9
+89,0,Research and Development,19,1,2
+92,1,Sales,44,13,7
+95,0,Marketing,39,10,4
+98,0,IT,49,12,5
+91,1,Finance,42,13,8
+94,0,Operations,53,19,3
+97,0,HR,18,1,6
+100,1,Customer Service,48,18,9
+83,0,Research and Development,17,1,8
