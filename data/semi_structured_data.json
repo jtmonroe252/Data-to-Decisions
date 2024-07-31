@@ -1,0 +1,35 @@
+[
+  {
+    "Customer_ID": 1,
+    "Name": "John Doe",
+    "Details": {
+      "Age": 36,
+      "Gender": "Male",
+      "Purchase_Amount": 650.75,
+      "Preferences": ["Electronics", "Books"]
+    },
+    "Notes": "Prefers online shopping. Looking for new laptop."
+  },
+  {
+    "Customer_ID": 2,
+    "Name": "Jane Smith",
+    "Details": {
+      "Age": 22,
+      "Gender": "Female",
+      "Purchase_Amount": 661.25,
+      "Preferences": ["Fashion", "Beauty"]
+    },
+    "Notes": "Frequent shopper. Interested in makeup products."
+  },
+  {
+    "Customer_ID": 3,
+    "Name": "Alex Johnson",
+    "Details": {
+      "Age": 47,
+      "Gender": "Male",
+      "Purchase_Amount": 958.86,
+      "Preferences": ["Sports", "Outdoor"]
+    },
+    "Notes": "Enjoys outdoor activities. Looking for camping gear."
+  }
+]
